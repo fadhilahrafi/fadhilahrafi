@@ -1,5 +1,6 @@
-# Hi there, I'm Rafi Fadhilah Yunus 
-(+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
+# Hi there, I'm Rafi Fadhilah Yunus
+
+##### (+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
 ## Tentang saya :
 saya seorang lulusan dari Universitas Logistik dan Bisnis Internasional jurusan D3 manajemen informatika pada tahun 2023 dengan IPK 3,42 Memiliki ketertarikan pada analis sistem, UI/UX designer dan php web developer. Memiliki pengalaman magang 3 bulan di KCU POS Bogor sebagai analisis sistem sekaligus web developer.
 Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan bahasa pemrograman PHP, MySQL, HTML, JS, Dan Codeigniter
@@ -61,7 +62,4 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Use Case Diagram, Class Diagram, Activity Diagram, System Sequence Diagram, Entity Relationship Diagram (ERD)
    - Business Process Modeling Notation (BPMN), Value Chain, Balsamiq Mockup
 ---
-### Connect with me:
-(+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
-
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
