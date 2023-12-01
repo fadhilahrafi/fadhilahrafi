@@ -1,4 +1,4 @@
-# Hi there, I'm Rafi Fadhilah Yunus
+# Rafi Fadhilah Yunus
 
 ##### (+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
 ## Tentang saya :
