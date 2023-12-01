@@ -35,10 +35,9 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Merancang Sistem Informasi Manajemen  Aset Berbasis Web (Studi Kasus : SD 4 Waetuo)
    - Mengunakan Program PHP, MySQL, HTML, JS, Dan Codeigniter
 
-## Pelatihan dan Workshop
+### Pelatihan dan Workshop
    - Peserta Workshop Kominfo Digital
    - Perserta Pelatihan Digitalent React Developer
----
 ### Sertifikat :
    - Sertifikasi System Analyst dari BNSP pada tahun 2023
    - Pemateri Soft Enginner : Introduction To Front-end pada tahun 2023
