@@ -37,7 +37,7 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Menganalisis kebutuhan sistem berdasarkan data sudah dikumpulkan dan dikelola
    - Merancang Sistem Informasi Manajemen  Aset Berbasis Web (Studi Kasus : SD 4 Waetuo)
    - Mengunakan Program PHP, MySQL, HTML, JS, Dan Codeigniter
-
+---
 ### Pelatihan dan Workshop
    - Peserta Workshop Kominfo Digital
    - Perserta Pelatihan Digitalent React Developer
