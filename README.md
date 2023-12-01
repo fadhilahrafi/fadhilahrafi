@@ -14,7 +14,7 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Siswa terbaik dalam masa magang industri
 
 ## Pengalaman Kerja :
-#### 1. [KCU POS Bogor 16000](https://www.facebook.com/KpBogor/) | Bogor `Mar'2023-Mei'2023`
+#### 1. [KCU POS Bogor 16000](https://www.facebook.com/KpBogor/) | Divisi IT/ Web Developer | Bogor `Mar'2023-Mei'2023`
    - Membantu membackup data
    - Membuat sistem informasi penyaluran beras bulog.
 #### 2. [PT. Gilland Grafika](http://www.gilland-grafika.com/) | Graphic Designer | Cibinong `Jan'2019-Mar'2019`
