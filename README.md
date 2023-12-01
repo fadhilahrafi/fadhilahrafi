@@ -1,4 +1,5 @@
 # Hi there, I'm Rafi Fadhilah Yunus 
+(+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
 ## Tentang saya :
 saya seorang lulusan dari Universitas Logistik dan Bisnis Internasional jurusan D3 manajemen informatika pada tahun 2023 dengan IPK 3,42 Memiliki ketertarikan pada analis sistem, UI/UX designer dan php web developer. Memiliki pengalaman magang 3 bulan di PT Pos Indonesia sebagai analisis sistem sekaligus web developer.
 Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan bahasa pemrograman PHP, MySQL, HTML, JS, Dan Codeigniter
@@ -14,7 +15,8 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
 
 ## Pengalaman Kerja :
 #### 1. [KCU POS Bogor 16000](https://www.facebook.com/KpBogor/) | Bogor `Mar'2023-Mei'2023`
-   - 
+   - Membantu membackup data
+   - Membuat sistem informasi penyaluran beras bulog.
 #### 2. [PT. Gilland Grafika](http://www.gilland-grafika.com/) | Graphic Designer | Cibinong `Jan'2019-Mar'2019`
    - Membuat berbagai desain produk untuk kepentingan Universitas
    - Membuat Soft Cover Book, Stiker, Gantungan Kunci, Finising, Banner
@@ -45,16 +47,21 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Character Building Ke-19 dari Humpunan Mahasiswa pada tahun 2020
    - WATASIWA Manajemen Informatika dari Humpunan Mahasiswa pada tahun 2020
    - Sertifikasi Pelayanan Multimedia dari BNSP pada tahun 2020
+### Skill :
+#### Soft Skills 
+   - Public Speaking
+   - Leadership
+   - Initiative
+   - Adaptability
+   - Teamwork
+#### Hard Skills 
+   - Microsoft office, Word, Excel, Power Point, Visio
+   - Adobe Photoshop, Coreldraw, Adobe Illustrator, Adobe Premiere Pro, Adobe XD
+   - HTML, PHP, CSS, MySQL, Codeigniter, UML, Postman, Enterprise Architect, Bizagi
+   - Use Case Diagram, Class Diagram, Activity Diagram, System Sequence Diagram, Entity Relationship Diagram (ERD)
+   - Business Process Modeling Notation (BPMN), Value Chain, Balsamiq Mockup
 ---
 ### Connect with me:
-[![website](./img/github-light.svg)](https://github.com/fadhilahrafi#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/fadhilahrafi#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rafi-fadhilah-a88495299#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rafi-fadhilah-a88495299#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/kurapikannn#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/kurapikannn#gh-dark-mode-only)
-
+(+62)89699013104 | rafi.fadhilah87@gmail.com | https://www.linkedin.com/in/rafi-fadhilah-a88495299/ |  Gn. Putri, Bogor - 16962
 
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
