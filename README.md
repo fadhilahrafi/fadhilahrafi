@@ -1,4 +1,4 @@
-# Hi there, I'm Rafi Fadhilah Yunus 👋
+# Hi there, I'm Rafi Fadhilah Yunus 
 ## Tentang saya :
 saya seorang lulusan dari Universitas Logistik dan Bisnis Internasional jurusan D3 manajemen informatika pada tahun 2023 dengan IPK 3,42 Memiliki ketertarikan pada analis sistem, UI/UX designer dan php web developer. Memiliki pengalaman magang 3 bulan di PT Pos Indonesia sebagai analisis sistem sekaligus web developer.
 Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan bahasa pemrograman PHP, MySQL, HTML, JS, Dan Codeigniter
